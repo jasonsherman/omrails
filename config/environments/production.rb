@@ -74,7 +74,7 @@ config.paperclip_defaults = {
   :s3_credentials => {
     :bucket => "shermspicboard",
     :access_key_id => "AKIAJVLSNENG72BWEEHQ",
-    :secret_access_key => "Y3IPTXH8fww11tkKSeddyK2X7WQ6fHO4"
+    :secret_access_key => "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"
   }
 }
 
