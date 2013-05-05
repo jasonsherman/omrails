@@ -1,5 +1,3 @@
-# One Month Rails
+# Sherms Picboard
 
-This is the sample application for 
-[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
-by [Mattan Griffel](http://mattangriffel.com)
+I created a Pinterest style picboard using the One Month Rails course
